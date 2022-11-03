@@ -7,5 +7,10 @@ int main()
     goo();
     }
 
+    for (int i=0; i<3; i++){
+        zoo();
+    }
+    zoo();
+
     return 0;
 }
